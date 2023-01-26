@@ -1,1 +1,12 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+#myNumber{
+  font-size:400px;
+  text-align:center;
+  margin:50px auto;
+  font-family:Arial, sans-serif;
+  font-family: Righteous, sans-serif;
+  color: red;
+}
 
