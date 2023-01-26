@@ -5,8 +5,10 @@
   font-size:400px;
   text-align:center;
   margin:50px auto;
-  font-family:Arial, sans-serif;
   font-family: Righteous, sans-serif;
   color: red;
 }
 
+head{
+  background-color: blue;
+}
