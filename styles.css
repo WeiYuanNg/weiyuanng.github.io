@@ -23,6 +23,9 @@ body{
   width: 800px;
   background-color: #606fb850;
   text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   transition: background-color 200ms linear;
 }
 
