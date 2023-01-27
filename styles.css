@@ -1,6 +1,12 @@
 /* import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
+@font-face {
+  font-family: Agrandir Grand Heavy;
+  src: url(https://api.cloudinary.com/v1_1/dezruxcgh/raw/download?api_key=388983588977563&attachment=true&audit_context=eyJhY3Rvcl90eXBlIjoidXNlciIsImFjdG9yX2lkIjoiNjkxZTYwYTQ2N2Q2NWY3MzdjMGUzYmZkN2JjZDY0ZDMiLCJ1c2VyX2V4dGVybmFsX2lkIjoiOTU1NTcyY2UwOGJjNGU5N2JlNzcwN2RiMGFjYThmIiwidXNlcl9jdXN0b21faWQiOiJuZ193ZWlfeXVhbkBzdHVkZW50cy5lZHUuc2ciLCJjb21wb25lbnQiOiJjb25zb2xlIn0%3D&public_id=Agrandir-GrandHeavy_jexzuj.otf&signature=e2f9ec15882006ff53c60509515163efeba19d79&source=ml&target_filename=Agrandir-GrandHeavy_jexzuj.otf&timestamp=1674812340&type=upload);
+}
+/* end  */
+
 #randomNumber{
   font-size: 500px;
   text-align: center;
@@ -16,7 +22,7 @@ body{
 .generate-refresh {
   height: 125px;
   font-size: 50px;
-  font-family: Righteous, sans-serif;
+  font-family: Agrandir Grand Heavy, sans-serif;
   font-weight: 400;
   border-radius: 25px;
   border: 0px;
