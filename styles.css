@@ -22,6 +22,7 @@ body{
   border: 0px;
   width: 800px;
   background-color: #606fb850;
+  text-align: center;
   transition: background-color 200ms linear;
 }
 
