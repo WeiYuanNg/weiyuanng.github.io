@@ -12,3 +12,20 @@
 body{
   background-color: light-blue;
 }
+
+.generate-refresh {
+  height: 50px;
+  font-size: 25px;
+  font-family: Righteous, sans-serif;
+  font-weight: 900;
+  border-radius: 15px;
+  border: 0px;
+  width: 200px;
+  background-color: #606fb850;
+  transition: background-color 200ms linear;
+}
+
+.generate-refresh:hover{
+  background-color: #9f9fa8
+}
+  
