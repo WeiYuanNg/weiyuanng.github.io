@@ -2,15 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 #randomNumber{
-  font-size:500px;
-  text-align:center;
-  margin:50px auto;
+  font-size: 500px;
+  text-align: center;
+  margin: 50px auto;
   font-family: Righteous, sans-serif;
   color: red;
 }
 
 body{
-  background-color: light-blue;
+  background-color: #ADD8E6;
 }
 
 .generate-refresh {
