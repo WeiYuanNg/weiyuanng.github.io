@@ -7,7 +7,7 @@
 }
 /* end  */
 
-#randomNumber{
+h1, h2, h3{
   font-size: 500px;
   text-align: center;
   margin: 50px auto;
@@ -39,3 +39,4 @@ body{
   background-color: #9f9fa8
 }
   
+img{width:300px;}
