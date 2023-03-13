@@ -7,13 +7,15 @@
 }
 /* end  */
 
-h1, h2, h3{
+#random-number{
   font-size: 500px;
   text-align: center;
   margin: 50px auto;
   font-family: Righteous, sans-serif;
   color: #ff8482;
 }
+
+h1, h2, h3{font-size: 20px;text-align: center;margin: 50px auto;font-family: Righteous, sans-serif;color: #ff8482;}
 
 body{
   background-color: #fcf4d7;
