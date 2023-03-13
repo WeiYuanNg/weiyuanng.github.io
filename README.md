@@ -1,3 +1,5 @@
-# number-generator-site
-my very random number generator site that generates a number between 1 and 37
+# AW-SOME TOOLZ
+tools:
+1. generates a number between 1 and 69
+
 more tools coming soon!
