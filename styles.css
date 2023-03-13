@@ -15,7 +15,7 @@
   color: #ff8482;
 }
 
-h1, h2, h3{font-size: 20px;text-align: center;margin: 50px auto;font-family: Righteous, sans-serif;color: #ff8482;}
+h1, h2, h3{font-size: 45px;text-align: center;margin: 50px auto;font-family: Righteous, sans-serif;color: #ff8482;}
 
 body{
   background-color: #fcf4d7;
@@ -41,4 +41,4 @@ body{
   background-color: #9f9fa8
 }
   
-img{width:600px;display: block;margin: 0 auto;}
+img{width:800px;display: block;margin: 0 auto;}
