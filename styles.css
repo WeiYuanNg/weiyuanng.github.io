@@ -41,4 +41,4 @@ body{
   background-color: #9f9fa8
 }
   
-img{width:800px;display: block;margin: 0 auto;}
+img{width:800px;display: block;margin: 0 auto;max-width:95%;}
